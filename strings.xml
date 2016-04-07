@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PearlHacks_1-2-3-4Cast</string>
+    <string name="title_activity_maps_activity__locator">Map</string>
+    <string name="title_activity_main_activity__outfits">MainActivity_Outfits</string>
+    <string name="title_activity_main_activity__current_location">MainActivity_CurrentLocation
+    </string>
+</resources>
