@@ -9,4 +9,3 @@
 # getting the weather, which Rachel did; and giving outfit advice, which
 # Victoria and Taylor did.
 # We hope to expand on this app in the future.
-# moviebot
